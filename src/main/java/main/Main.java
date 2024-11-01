@@ -17,3 +17,5 @@ public class Main {
         commentService.publishComment(comment);
     }
 }
+//Storing comment: Demo comment
+//Sending notification for comment; Demo comment
